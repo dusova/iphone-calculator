@@ -1,53 +1,53 @@
-# iPhone Tarzı Hesap Makinesi
+# iPhone Style Calculator
 
-Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuş basit bir iPhone tarzı hesap makinesidir. Hesap makinesi toplama, çıkarma, çarpma ve bölme gibi temel aritmetik işlemleri yapmanın yanı sıra yüzde hesaplama, ekranı temizleme ve son girilen rakamı silme gibi ek işlevler sunar.
+This project is a simple iPhone-style calculator built using HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division, as well as additional functions like percentage calculation, clearing the screen, and deleting the last entered digit.
 
-## Özellikler
+## Features
 
-- Toplama, çıkarma, çarpma ve bölme işlemleri
-- Yüzde hesaplama özelliği
-- Ekranı tamamen temizleme (`AC`)
-- Son girilen rakamı silme (`⌫`)
-- iPhone tarzı kullanıcı arayüzü
+- Addition, subtraction, multiplication, and division operations
+- Percentage calculation feature
+- Clear the screen completely (`AC`)
+- Delete the last entered digit (`⌫`)
+- iPhone-style user interface
 
-## Ekran Görüntüsü
+## Screenshot
 
-![Hesap Makinesi Ekran Görüntüsü](https://gcdnb.pbrd.co/images/3QdZhv4Qk2rZ.png?o=1)
+![Calculator Screenshot](https://gcdnb.pbrd.co/images/3QdZhv4Qk2rZ.png?o=1)
 
-## Kurulum
+## Installation
 
-Projeyi bilgisayarınıza klonlayarak ya da zip dosyasını indirerek kurabilirsiniz.
+You can install the project by cloning it to your computer or downloading the zip file.
 
-### Adımlar:
+### Steps:
 
-1. Bu projeyi klonlayın veya zip dosyasını indirin:
+1. Clone this project or download the zip file:
     ```bash
-    git clone https://github.com/kullaniciadi/iphone-hesap-makinesi.git
+    git clone https://github.com/username/iphone-calculator.git
     ```
 
-2. Dosyaları açın ve `index.html` dosyasını tarayıcınızda çalıştırın.
+2. Open the files and run the `index.html` file in your browser.
 
-## Kullanım
+## Usage
 
-1. Sayıyı ve yapmak istediğiniz işlemi seçin.
-2. İşlemi gerçekleştirmek için `=` tuşuna basın.
-3. Hesap makinesi sonuçları ekran üzerinde gösterecektir.
+1. Select the number and the operation you want to perform.
+2. Press the `=` button to execute the operation.
+3. The calculator will display the results on the screen.
 
-## Proje Yapısı
+## Project Structure
 
-- `index.html`: Hesap makinesi arayüzünü içeren HTML dosyası.
-- `style.css`: Hesap makinesi arayüzü için stil dosyası.
-- `script.js`: Hesap makinesi işlevselliğini sağlayan JavaScript dosyası.
+- `index.html`: HTML file containing the calculator interface.
+- `style.css`: CSS file for the calculator interface styling.
+- `script.js`: JavaScript file providing the calculator functionality.
 
-## Katkıda Bulunma
+## Contributing
 
-Katkılarınızı memnuniyetle karşılıyoruz! Bir pull request açabilir ya da sorunlar (issue) sekmesinden geri bildirimde bulunabilirsiniz.
+We welcome contributions! You can open a pull request or provide feedback through the issues tab.
 
-1. Bu projeyi forklayın.
-2. Yeni bir özellik dalı (`feature-branch`) oluşturun.
-3. Değişikliklerinizi commitleyin.
-4. Pull request açın.
+1. Fork this project.
+2. Create a new feature branch (`feature-branch`).
+3. Commit your changes.
+4. Open a pull request.
 
-## Lisans
+## License
 
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
+This project is licensed under the [MIT License](LICENSE). For more information, see the `LICENSE` file.
