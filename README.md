@@ -22,7 +22,7 @@ You can install the project by cloning it to your computer or downloading the zi
 
 1. Clone this project or download the zip file:
     ```bash
-    git clone https://github.com/username/iphone-calculator.git
+    git clone https://github.com/dusova/iphone-calculator.git
     ```
 
 2. Open the files and run the `index.html` file in your browser.
